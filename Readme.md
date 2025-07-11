@@ -28,6 +28,16 @@ Below is a walkthrough video demonstrating the project:
   - **Player Statistics Analysis**: Integrated ATP data for player comparisons and utilized Azure OpenAI Services for advanced analysis.
 - **Deployment**: The application is deployed using Azure Virtual Machines and Azure OpenAI services, ensuring scalability and real-time performance.
 
+---
+
+## 📁 Additional Project Files
+
+Due to file size limitations on GitHub, the remaining project folders (including trained models, utility scripts, and supplementary materials) are available on Google Drive:
+
+👉 [Access Full Project Files on Google Drive](https://drive.google.com/drive/folders/YOUR_FOLDER_ID?usp=sharing)
+
+*Please ensure you have access permissions. If you have any issues accessing the files, feel free to contact me.*
+
 
 
 ### **Dataset Details**

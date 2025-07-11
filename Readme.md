@@ -5,7 +5,8 @@ This application leverages OpenCV and deep learning models to analyze tennis mat
 
 ## Project Presentation
 
-You can view the detailed project presentation [here](final_presentation_ppt.pptx).
+You can view the detailed project presentation [here](https://docs.google.com/presentation/d/1RO7lEjg1SJ4OFCgJjqRfvrTbTTKzmNMd/edit?usp=sharing&ouid=100966731951527160857&rtpof=true&sd=true).
+
 
 ---
 

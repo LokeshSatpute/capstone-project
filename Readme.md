@@ -13,9 +13,9 @@ You can view the detailed project presentation [here](final_presentation_ppt.ppt
 
 Below is a walkthrough video demonstrating the project:
 
-[![Project Video](images/courtmetric-dashboard.png)](final_presentation_video.mp4)
+[![Project Video](images/courtmetric-dashboard.png)](https://drive.google.com/file/d/1Ky9PrJk4YbZrI0eGTyzlLf3TbzIpBQUs/view?usp=sharing)
 
-*Click on the image above to watch the video.*
+*Click on the image above to watch the video on Google Drive.*
 
 
 ### **Key Highlights**
